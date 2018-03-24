@@ -1,2 +1,3 @@
 # smakerspace.github.io
-SmakerSpace Website
+
+Namit website: https://smakerspace.github.io/namit/
